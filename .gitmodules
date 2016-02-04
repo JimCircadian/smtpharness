@@ -1,0 +1,6 @@
+[submodule "smtpnodes"]
+	path = smtpnodes
+	url = https://github.com/JimCircadian/smtpnodes.git
+[submodule "termwindow"]
+	path = termwindow
+	url = https://github.com/JimCircadian/termwindow.git
